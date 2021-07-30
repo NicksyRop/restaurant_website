@@ -1,14 +1,12 @@
-html{
-    height: 100%;
-}
-
 body{
 
     background-color: rgb(19, 26, 19);
-    background-image: url(images/background-adare-restaurant.jpg);
+     background-image: url(images/background-adare-restaurant.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+
+
 }
 .container{
     margin-right: auto;
@@ -80,4 +78,7 @@ nav a{
 footer p{
 
     font-size: 10px;
+}
+.map{
+    padding-bottom: 100px;
 }

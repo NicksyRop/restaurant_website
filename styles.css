@@ -47,8 +47,10 @@ main{
 
 footer{
 
-    background-color: red;
-    height: 100px;
+    background-color: rgba(0, 0, 0, 0.589);
+    text-align: center;
+    padding-top: 45px;
+    padding-bottom:45px;
 
 }
 h1{
@@ -74,4 +76,8 @@ nav a{
     font-size: 12px;
     padding-left: 10px;
     padding-right: 10px;
+}
+footer p{
+
+    font-size: 10px;
 }

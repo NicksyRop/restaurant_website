@@ -1,8 +1,40 @@
-h1{
+body{
 
-    color: brown;
-    font-size: 64px;
+    background-color: rgb(19, 26, 19);
 }
-h2{
-    color: red;
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    width: 1024px;
+
 }
+header{
+
+background-color: blue;
+height: 118px;
+width: 1024px;
+
+}
+
+
+nav{
+
+    background-color: orange;
+    height: 40px;
+
+}
+
+main{
+
+    background-color: greenyellow;
+    height: 400px;
+
+}
+
+footer{
+
+    background-color: red;
+    height: 100px;
+
+}
+
